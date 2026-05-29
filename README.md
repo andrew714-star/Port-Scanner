@@ -4,12 +4,12 @@ A fast, multithreaded TCP port scanner written in Python. No third-party depende
 
 ## Features
 
-- ⚡ Multithreaded scanning for high speed
-- 📊 Live progress bar
-- 🏷️ Automatic service name detection
-- 🪧 Optional banner grabbing (`-b`) to identify service versions
-- 🔝 Built-in top 100 common ports preset (`--top100`)
-- 💾 Save results to a text file (`-o`)
+-  Multithreaded scanning for high speed
+-  Live progress bar
+-  Automatic service name detection
+-  Optional banner grabbing (`-b`) to identify service versions
+-  Built-in top 100 common ports preset (`--top100`)
+-  Save results to a text file (`-o`)
 
 ## Requirements
 
@@ -83,6 +83,7 @@ Scanned at 2024-11-01 14:23:07 - completed in 3.45s
 
 Only scan hosts you **own** or have **explicit written permission** to scan. Unauthorized port scanning may be illegal in your jurisdiction. This tool is intended for network administration, security research, and educational use on systems you are authorized to test.
 
-## License
+## Author
 
-MIT
+**Andrew Ruiz**
+[LinkedIn](https://linkedin.com/in/andrew-ruiz-491320366)
